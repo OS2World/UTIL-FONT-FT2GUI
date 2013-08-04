@@ -1,0 +1,11 @@
+VX-REXX OS/2 V2.14 Build B3
+VRX: FT2GUI.VRX
+MacroPath: VRM:E:\Dev\REXX\VXREXX\Projects\FT2GUI
+EXEPath: 
+RunParameters: 
+RunDirectory: 
+VRXWindow: __VREMainWindow,1,1445,2746,5767,8000
+VRXWindow: __VRESectionListWindow,1,2867,8323,3529,3342
+VRXWindow: __VREToolsWindow,1,2476,8929,7495,1663
+UserFile: 1
+UserWindow: Main,1
